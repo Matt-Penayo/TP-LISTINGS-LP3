@@ -1,0 +1,1 @@
+tsd.o: tsd.c

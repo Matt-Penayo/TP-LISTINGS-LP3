@@ -1,0 +1,1 @@
+tifftest.o: tifftest.c

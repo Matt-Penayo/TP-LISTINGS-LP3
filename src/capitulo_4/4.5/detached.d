@@ -1,0 +1,1 @@
+detached.o: detached.c
